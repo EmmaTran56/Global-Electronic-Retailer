@@ -66,13 +66,9 @@ Customer order summary for a target order date.
 
 ### Q8
 
-Customer order summary for a target order date.
+Dynamic pivot of total orders by country and year.
 
 ![Q8 result](assets/q8.png)
-
-### Q9
-
-Dynamic pivot of total orders by country and year.
 
 ## How to use
 
