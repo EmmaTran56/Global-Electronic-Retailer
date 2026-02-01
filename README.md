@@ -22,51 +22,35 @@ The dataset is provided as CSV files in `GlobalElectronicsRetailer/`:
 
 ## Question and screenshots
 
-### Q1
-
-Monthly profit by year and month.
+### Q1 Monthly profit by year and month.
 
 ![Q1 result](assets/q1.png)
 
-### Q2
-
-Customer counts by age group, gender, and location.
+### Q2 Customer counts by age group, gender, and location.
 
 ![Q2 result](assets/q2.png)
 
-### Q3
-
-Cumulative profit by month and months with >= 10% growth.
+### Q3 Cumulative profit by month and months with >= 10% growth.
 
 ![Q3 result](assets/q3.png)
 
-### Q4
-
-Most frequent subcategory pairs in the same order.
+### Q4 Most frequent subcategory pairs in the same order.
 
 ![Q4 result](assets/q4.png)
 
-### Q5
-
-Top 2 products by quantity per category and country.
+### Q5 Top 2 products by quantity per category and country.
 
 ![Q5 result](assets/q5.png)
 
-### Q6
-
-Store profit per square meter (local currency).
+### Q6 Store profit per square meter (local currency).
 
 ![Q6 result](assets/q6.png)
 
-### Q7
-
-Customer order summary for a target order date.
+### Q7 Customer order summary for a target order date.
 
 ![Q7 result](assets/q7.png)
 
-### Q8
-
-Dynamic pivot of total orders by country and year.
+### Q8 Dynamic pivot of total orders by country and year.
 
 ![Q8 result](assets/q8.png)
 
