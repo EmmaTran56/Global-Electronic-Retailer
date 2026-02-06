@@ -57,6 +57,6 @@ The dataset is provided as CSV files in `GlobalElectronicsRetailer/`:
 ## How to use
 
 1. Load the CSVs into your SQL database (the queries use T-SQL syntax).
-2. Run the queries in `answer_question _1.sql`.
+2. Run the queries in `answer.sql`.
 
 > Note: The dataset column names in the queries are expected to match the CSV headers.
