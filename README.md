@@ -15,9 +15,6 @@ sales and profitability**. By analyzing historical orders, the business wants to
 - Evaluate store performance and efficiency to guide network planning.
 - Detect markets, products, or stores that are underperforming or destroying value.
 
-This structure follows the same style as the reference project
-[`SQL-Sales-data-analysis`](https://github.com/EmmaTran56/SQL-Sales-data-analysis).
-
 ## Business questions
 
 This analysis is designed to answer the following core business questions, each
