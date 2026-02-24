@@ -80,28 +80,28 @@ Refer to `Data_Dictionary.csv` for precise column names and definitions.
 Write an SQL query to calculate **total profit** grouped by **year and month**
 and ordered chronologically.
 
-Result: `Q1` result screenshot – `assets/q1.png`
+![Q1 result](assets/q1.png)
 
 ### Question 2 – Customer counts by age group, gender, and location
 
 Write an SQL query to **classify customers into age groups** and then calculate
 the **number of customers** by **age group, gender, and location (e.g., country/city)**.
 
-Result: `Q2` result screenshot – `assets/q2.png`
+![Q2 result](assets/q2.png)
 
 ### Question 3 – Cumulative profit and months with ≥ 10% growth
 
 Write an SQL query to compute **cumulative profit by month** and flag those
 months where **month‑over‑month profit growth is at least 10%**.
 
-Result: `Q3` result screenshot – `assets/q3.png`
+![Q3 result](assets/q3.png)
 
 ### Question 4 – Most frequent subcategory pairs in the same order
 
 Write an SQL query to identify **pairs of product subcategories** that most
 frequently appear **together in the same order**, ordered by frequency.
 
-Result: `Q4` result screenshot – `assets/q4.png`
+![Q4 result](assets/q4.png)
 
 ### Question 5 – Top 2 products by quantity per category and country
 
@@ -109,21 +109,21 @@ Write an SQL query to rank products by **total quantity sold** within each
 **product category and country**, and return only the **top 2 products** in each
 category–country combination.
 
-Result: `Q5` result screenshot – `assets/q5.png`
+![Q5 result](assets/q5.png)
 
 ### Question 6 – Store profit per square meter (local currency)
 
 Write an SQL query to calculate **profit per square meter** for each store in
 its **local currency**, combining profit and store size information.
 
-Result: `Q6` result screenshot – `assets/q6.png`
+![Q6 result](assets/q6.png)
 
 ### Question 7 – Customer order summary for a target order date
 
 Write an SQL query that, for a **given order date**, summarizes **per‑customer**
 metrics such as number of orders, total quantity, and total revenue or profit.
 
-Result: `Q7` result screenshot – `assets/q7.png`
+![Q7 result](assets/q7.png)
 
 ### Question 8 – Dynamic pivot of total orders by country and year
 
@@ -131,7 +131,7 @@ Write an SQL query using **dynamic pivot** (or equivalent) to calculate the
 **total number of orders** for each **country**, with **years as dynamic
 columns**, so that new years are handled without changing the SQL.
 
-Result: `Q8` result screenshot – `assets/q8.png`
+![Q8 result](assets/q8.png)
 
 ## Insights and recommendations
 
