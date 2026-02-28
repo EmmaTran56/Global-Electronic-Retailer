@@ -60,18 +60,13 @@ The dataset is provided as CSV files in `GlobalElectronicsRetailer/`:
 - `Exchange_Rates.csv`: Currency exchange rates for converting to local or base currency.
 - `Data_Dictionary.csv`: Column‑level definitions for all tables.
 
-## Schema
+## Data model
 
-The exact schema depends on how you load the CSV files, but a typical structure is:
+The high‑level data model of the Global Electronics Retailer dataset is shown below:
 
-- `Customers` – customer information (e.g., `CustomerID`, demographic attributes, geography).
-- `Products` – product master data (e.g., `ProductID`, category, subcategory, price).
-- `Stores` – store information (e.g., `StoreID`, country, city, store size in m²).
-- `Sales` – transaction‑level facts (e.g., `OrderID`, `OrderDate`, `CustomerID`,
-  `ProductID`, `StoreID`, quantity, sales amount, cost/profit fields).
-- `Exchange_Rates` – mapping between currencies and rates over time.
+![Data model](assets/data_model.png)
 
-Refer to `Data_Dictionary.csv` for precise column names and definitions.
+Refer to `Data_Dictionary.csv` for precise table and column definitions.
 
 ## Results
 
